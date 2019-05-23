@@ -2,6 +2,15 @@
 <!--Author: andrey167 <andrey_167@bk.ru>-->
 
 <resources>
+    <string name="autoflash_message">\ nSmartPack-Kernel загружен и готов к автоматической перепрошивке. Вы хотите прошить его СЕЙЧАС? \ N \ nОбратите внимание: ваше устройство будет автоматически перезагружено после процесса перепрошивки. \ N</string>
+<string name="flasher">Прошивальшикr</string>
+<string name="flasher_summary">Нажмите кнопку прошивки, чтобы выбрать и прошить файл восстановления ZIP без перезагрузки в пользовательское восстановление. Изменения вступят в силу после перезагрузки.</string>
+<string name="flasher_message">Прошить сейчас</string>
+<string name="reset_settings_message">\ nНастройки приложения будут полностью удалены. \ n \ nВы уверены? \ n</string>
+<string name="recovery_message">\ Ваше устройство будет перезагружено в режим восстановления. \ N</string>
+<string name="bootloader_message">\ Ваше устройство будет перезагружено в режим загрузки. \ N</string>
+<string name="wipe_cache_message">\ nCache / Dalvik Cache разделы вашего устройства будут удалены. \ n \ nВнимание! Устройство будет перезагружено. \ N</string>
+<string name="wipe_data_message">\ nДанные раздела вашего устройства будут полностью удалены. \ n \ nВнимание! Вы потеряете все пользовательские данные, включая приложения. \ N \ nВнимание! Устройство будет перезагружено. \ N</string>
     <string name="about">О приложении</string>
     <string name="accent_color">Цветовой акцент</string>
     <string name="acci">Расширенный интерфейс управления зарядом</string>
